@@ -17,6 +17,9 @@
 
 **قدر مطلق -23.45 برابر است با: 23.45**  
 
+
+     
+
 # How to Calculate the Absolute Value of a Decimal Number in C#
 
 **Sample C# Code to Calculate Absolute Value**
