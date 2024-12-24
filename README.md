@@ -1,7 +1,7 @@
 
 # آموزش قدر مطلق یک عدد اعشاری درسی شارپ
 
-# نمونه کد C# برای محاسبه قدر مطلق
+**نمونه کد C# برای محاسبه قدر مطلق**
 
 ```csharp
         // عدد اعشاری
@@ -13,10 +13,13 @@
         // نمایش نتیجه
         Console.WriteLine($"قدر مطلق {number} برابر است با: {absoluteValue}");
 ```
-*** خروجی کد : ***
+**خروجی کد :**
 
-قدر مطلق -23.45 برابر است با: 23.45
----
+**قدر مطلق -23.45 برابر است با: 23.45**
+-
+-
+-
+
 
 # How to Calculate the Absolute Value of a Decimal Number in C#
 
@@ -32,4 +35,4 @@
         // Display the result
         Console.WriteLine($"The absolute value of {number} is: {absoluteValue}");
 ```
-# The absolute value of -23.45 is: 23.45
+**The absolute value of -23.45 is: 23.45**
