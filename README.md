@@ -34,4 +34,4 @@
         // Display the result
         Console.WriteLine($"The absolute value of {number} is: {absoluteValue}");
 ```
-**RUN : The absolute value of -23.45 is: 23.45**
+**Run Code : The absolute value of -23.45 is: 23.45**
