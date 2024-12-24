@@ -13,10 +13,11 @@
         // نمایش نتیجه
         Console.WriteLine($"قدر مطلق {number} برابر است با: {absoluteValue}");
 ```
-# خروجی کد :
+*** خروجی کد : ***
 
 قدر مطلق -23.45 برابر است با: 23.45
-<br><br><br><br>
+---
+
 # How to Calculate the Absolute Value of a Decimal Number in C#
 
 ## Sample C# Code to Calculate Absolute Value
